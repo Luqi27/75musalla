@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/75musalla/static/css/main.94b5b69e.css",
+    "main.js": "/75musalla/static/js/main.95ceb4fe.js",
+    "static/media/msjid.jpg": "/75musalla/static/media/msjid.32484acdbf089090cc80.jpg",
+    "static/media/bis.png": "/75musalla/static/media/bis.949768f408f931fcda4c.png",
+    "index.html": "/75musalla/index.html",
+    "main.94b5b69e.css.map": "/75musalla/static/css/main.94b5b69e.css.map",
+    "main.95ceb4fe.js.map": "/75musalla/static/js/main.95ceb4fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94b5b69e.css",
+    "static/js/main.95ceb4fe.js"
+  ]
+}
