@@ -16,9 +16,9 @@ const Navbar = () => {
         <div className='flex items-center'>
           <h1 className='text-3xl font-bold mr-4 sm:text-4xl pl-5'>75 MUSALLA</h1>
           <ul className='hidden md:flex'>
-          <li><Link to="Home" smooth={true} duration={500}>Home</Link></li>
-          <li><Link to="Table" smooth={true} offset={-10} duration={500}>Salah</Link></li>
-          <li><Link to="Footer" smooth={true} offset={200} duration={500}>Contact</Link></li>
+          <li className='cursor-pointer'><Link to="Home" smooth={true} duration={500}>Home</Link></li>
+          <li className='cursor-pointer'><Link to="Table" smooth={true} offset={-10} duration={500}>Salah</Link></li>
+          <li className='cursor-pointer'><Link to="Footer" smooth={true} offset={200} duration={500}>Contact</Link></li>
         
           </ul>
         </div>
